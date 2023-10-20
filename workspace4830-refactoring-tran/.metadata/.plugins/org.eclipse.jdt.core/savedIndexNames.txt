@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\BrianTran\Documents\School\College\UNO\CSCI 4830 - Intro to Software Engineering\Lecture\workspace4830-refactoring-tran\.metadata\.plugins\org.eclipse.jdt.core
+552952516.index
+1865797976.index
+3141088384.index

@@ -1,0 +1,5 @@
+127.0.0.1 - - [12/Oct/2023:22:26:13 -0500] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Oct/2023:22:26:13 -0500] "GET /webproject-tech-exercise-tran/WEB-INF/classes/MyServletTran.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [12/Oct/2023:22:26:29 -0500] "GET /webproject-tech-exercise-tran/MyServletTran.java HTTP/1.1" 404 803
+0:0:0:0:0:0:0:1 - - [12/Oct/2023:22:26:32 -0500] "GET /webproject-tech-exercise-tran/MyServletTran.java HTTP/1.1" 404 803
+0:0:0:0:0:0:0:1 - - [12/Oct/2023:22:26:57 -0500] "GET /webproject-tech-exercise-tran/WEB-INF/classes/MyServletTran.java HTTP/1.1" 404 682

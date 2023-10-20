@@ -2,6 +2,7 @@
 <libraryInfos>
     <libraryInfo home="/Volumes/Eclipse/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.8.v20230831-1047" version="17.0.8.1"/>
     <libraryInfo home="/Library/Java/JavaVirtualMachines/microsoft-11.jdk/Contents/Home" version="11.0.16.1"/>
+    <libraryInfo home="C:\Users\BrianTran\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047" version="17.0.8.1"/>
     <libraryInfo home="/Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home" version="1.8.0_302">
         <bootpath>
             <entry path="/Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/resources.jar"/>
@@ -26,6 +27,7 @@
         </endorsedDirs>
     </libraryInfo>
     <libraryInfo home="/Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/Contents/Home" version="11.0.6"/>
+    <libraryInfo home="C:\Users\BrianTran\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047\jre" version="17.0.8.1"/>
     <libraryInfo home="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home" version="1.8.0_381">
         <bootpath>
             <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/resources.jar"/>
