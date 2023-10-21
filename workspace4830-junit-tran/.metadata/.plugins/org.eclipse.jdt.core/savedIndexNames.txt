@@ -1,0 +1,20 @@
+INDEX VERSION 1.134+C:\Users\BrianTran\Documents\School\College\UNO\CSCI 4830 - Intro to Software Engineering\Lecture\workspace4830-junit-tran\.metadata\.plugins\org.eclipse.jdt.core
+720437186.index
+831330357.index
+3349888318.index
+3715733274.index
+2049100580.index
+43195152.index
+3989704101.index
+1143341583.index
+2044857772.index
+1135240721.index
+3141088384.index
+1235489906.index
+1876789770.index
+1865797976.index
+3430350202.index
+2668539622.index
+1352017115.index
+912335868.index
+993844706.index
